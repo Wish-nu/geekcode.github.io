@@ -8,7 +8,7 @@ You Really Don't Need anything as Its basic Html, Install Visual studio Code Or 
 
 ## Replit
 
-If You use [Replit, Click On This Link]() and Fork.🍴
+If You use [Copy the link and paste, Click On This Link]() and Fork.🍴
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -16,7 +16,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Original Repo
-Original Repo Link (.pug / .html ) - [Click Me](https://github.com/Yalgie/website)🗄️
+Original Repo Link (.pug / .html ) - [Click Me](https://github.com/Ninju69/Ninju_portfolio)🗄️
 Credits - [Yalgie](https://github.com/Yalgie)
 
 ## License
